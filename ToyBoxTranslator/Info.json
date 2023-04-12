@@ -1,0 +1,10 @@
+﻿{
+  "Id": "Frostylight.WTOR.ToyBoxTranslator",
+  "DisplayName": "ToyBoxTranslator",
+  "Version": "2.1.0",
+  "AssemblyName": "ToyBoxTranslator.dll",
+  "EntryMethod": "ToyBoxTranslator.Main.Load",
+  "Requirements": [ "ToyBox" ],
+  "HomePage": "https://github.com/frostylight/ToyBoxTranslator",
+  "Repository": "https://raw.githubusercontent.com/frostylight/ToyBoxTranslator/master/Repository.json"
+}
